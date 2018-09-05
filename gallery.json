@@ -17,7 +17,7 @@
     {
       "title": "Rapid metal-enriched collapse",
       "type": "image",
-      "url": "http://grapenut.org/code/yt/paperNature/movie/movie.gif",
+      "url": "http://walrus.grapenut.org/code/yt/paperNature/movie/movie.gif",
       "thumb": "gallery/collapse_10pc.gif",
       "caption": "Movie depicting SN explosion and metal-enriched recollapse."
     },
@@ -31,14 +31,14 @@
     {
       "title": "Photoionizing the disk (face-on)",
       "type": "video",
-      "url": "http://grapenut.org/code/yt/finalPaper/density_projection_z10.mp4",
+      "url": "http://walrus.grapenut.org/code/yt/finalPaper/density_projection_z10.mp4",
       "thumb": "gallery/offaxis_007600_OffAxisProjection_ndens_density.png",
       "caption": "The disk is blasted with radiation, heating and expanding gas near the center to create a ring."
     },
     {
       "title": "Photoionizing the disk (edge-on)",
       "type": "video",
-      "url": "http://grapenut.org/code/yt/finalPaper/density_projection_edge_z10.mp4",
+      "url": "http://walrus.grapenut.org/code/yt/finalPaper/density_projection_edge_z10.mp4",
       "thumb": "gallery/edge_007600_OffAxisProjection_ndens_density.png",
       "caption": "The disk is blasted with radiation, heating and expanding gas near the center to increase the scale height."
     },
@@ -52,7 +52,7 @@
     {
       "title": "Superbubble outflow simulation",
       "type": "video",
-      "url": "http://grapenut.org/code/yt/finalPaper/outflow.mp4",
+      "url": "http://walrus.grapenut.org/code/yt/finalPaper/outflow.mp4",
       "thumb": "gallery/movie_slice_153500_100pc_Slice_z_ndens.png",
       "caption": "Repeated supernovae blast a hole in the galactic disk, launching a superbubble outflow."
     }
