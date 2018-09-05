@@ -1,6 +1,13 @@
 {
   "gallery":[
     {
+      "title": "Clouds blasted by supernova",
+      "type": "image",
+      "url": "gallery/cloud.jpg",
+      "thumb": "gallery/cloud.jpg",
+      "caption": "Small clouds have been blasted by a nearby supernova explosion."
+    },
+    {
       "title": "Particle swarms",
       "type": "image",
       "url": "gallery/particle_10pc_z.gif",
