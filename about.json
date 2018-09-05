@@ -1,0 +1,13 @@
+{
+  "skills":[
+    "Numerical simulations using the FLASH hydrodynamics code",
+    "Spherical grids (NASA/JPL HEALPix) and octree mapping",
+    "Parallel computing with Message Passing Interface (MPI)",
+    "Tree-based particle density estimation and statistical analysis",
+    "High energy explosion dynamics (e.g. Supernovae)",
+    "Expertise with Linux/Unix operating systems",
+    "Advanced shell scripting and automation",
+    "Scientific programming skills include C/C++, Fortran, Java, and Python",
+    "Data analysis and visualization using a variety of technologies"
+  ]
+}

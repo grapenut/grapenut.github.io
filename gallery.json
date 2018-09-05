@@ -1,0 +1,11 @@
+{
+  "gallery":[
+    {
+      "title": "A Disk Galaxy",
+      "type": "image",
+      "url": "http://walrus.grapenut.org/code/yt/finalPaper/project_ndens_500pc.gif",
+      "thumb": "http://walrus.grapenut.org/code/yt/finalPaper/project_ndens_500pc.gif",
+      "caption": "A small disk galaxy formed at redshift 10."
+    }
+  ]
+}

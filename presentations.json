@@ -1,0 +1,43 @@
+{
+  "posters":[
+    {
+      "title": "Simulating Supernovae in the Early Universe",
+      "conference": "South By High Redshift (2015)",
+      "location": "University of Texas at Austin, USA",
+      "url": "http://www.as.utexas.edu/sxhz/",
+      "thumb": "images/jritter_sxhz2015_poster.jpg",
+      "download": "docs/jritter_sxhz2015_poster.pdf"
+    },
+    {
+      "title": "Radiation and Supernova Feedback from the First Stars",
+      "conference": "Mind the Gap (2013)",
+      "location": "University of Cambridge, UK",
+      "url": "http://www.ast.cam.ac.uk/meetings/2013/MindTheGap",
+      "thumb": "images/CambridgePoster.jpg",
+      "download": "docs/CambridgePoster.pdf"
+    }
+  ],
+  "presentations":[
+    {
+      "title": "Hydrodynamical Biases in Chemical Enrichment by the First Supernovae",
+      "conference": "Fifty-One Ergs (2015)",
+      "location": "North Carolina State University, USA",
+      "url": "http://www.physics.ncsu.edu/FOE2015/",
+      "download": "docs/jritter_foe2015_talk.pdf"
+    },
+    {
+      "title": "Simulating Supernovae in the Early Universe",
+      "conference": "South By High Redshift (2015)",
+      "location": "University of Texas at Austin, USA",
+      "url": "http://www.as.utexas.edu/sxhz/",
+      "download": "docs/jritter_sxhz2015_talk.pdf"
+    },
+    {
+      "title": "Supernovae and Chemical Enrichment in the First Galaxies",
+      "conference": "The Physics of First Star and Galaxy Formation (2014)",
+      "location": "University of Edinburgh, UK",
+      "url": "http://higgs.ph.ed.ac.uk/workshops/physics-first-star-and-galaxy-formation",
+      "download": "docs/jritter_2014_edinburgh.pdf"
+    }
+  ]
+}

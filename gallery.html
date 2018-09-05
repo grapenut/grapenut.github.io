@@ -1,0 +1,32 @@
+
+<div class="row">
+  <div class="col-lg-12">
+    <h1>Gallery</h1>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <div ng-repeat="row in gallery">
+    <div class="row">
+      <div class="col-md-{{12/gallery_num_columns}}" ng-repeat="file in row">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <span class="clickable">
+              <h3 class="panel-title"><i class="fa fa-search"></i> {{ file.title }}</h3>
+              <i class="panel-button pull-right glyphicon glyphicon-chevron-up"></i>
+            </span>
+          </div>
+          <div class="panel-body">
+            <a target="_blank" href="{{ file.url }}">
+              <img src="{{ file.thumb }}" width="100%" />
+            </a>
+            <div class="text-muted text-center">{{ file.caption }}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+</div>
+
+
